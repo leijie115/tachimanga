@@ -13,6 +13,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | 巴卡漫画 (Bakamh) | 中文 | https://bakamh.com |
 | 包子漫画 (Baozi Manhua) | 中文 | https://www.baozimh.com |
 | GoDa漫画 (BaozimhOrg) | 中文 | https://baozimh.org |
+| 拷貝漫畫 (MangaCopy) | 中文 | https://www.mangacopy.com |
 | Bilimanga.net | 中文 | https://www.bilimanga.net |
 
 > **Note:** All sources contain NSFW (18+) content.
@@ -52,6 +53,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 巴卡漫画 (Bakamh) | 中文 | https://bakamh.com |
 | 包子漫画 (Baozi Manhua) | 中文 | https://www.baozimh.com |
 | GoDa漫画 (BaozimhOrg) | 中文 | https://baozimh.org |
+| 拷貝漫畫 (MangaCopy) | 中文 | https://www.mangacopy.com |
 | Bilimanga.net | 中文 | https://www.bilimanga.net |
 
 > **注意：** 以上图源均包含 NSFW（18+）内容。
