@@ -8,8 +8,10 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 |--------|----------|-----|
 | Manga18fx | English | https://manga18fx.com |
 | 漫小肆韓漫 (Ikanwzd) | 中文 | https://www.ikanwzd.cc |
+| 韩漫库 (Se8) | 中文 | https://se8.us |
+| 18漫畫 (EighteenMH) | 中文 | https://18mh.org |
 
-> **Note:** Both sources contain NSFW (18+) content.
+> **Note:** All sources contain NSFW (18+) content.
 
 ## How to Use
 
@@ -23,7 +25,7 @@ https://raw.githubusercontent.com/leijie115/tachimanga/main/repo/index.min.json
 
 ### 2. Install Extensions
 
-Go to **Browse → Extensions**, find **Manga18fx** or **Ikanwzd** in the list, and tap **Install**.
+Go to **Browse → Extensions**, find the extension you want in the list, and tap **Install**.
 
 ### 3. Browse Manga
 
@@ -41,6 +43,8 @@ After installation, go to **Browse → Sources**, select the source you installe
 |------|------|------|
 | Manga18fx | English | https://manga18fx.com |
 | 漫小肆韓漫 (Ikanwzd) | 中文 | https://www.ikanwzd.cc |
+| 韩漫库 (Se8) | 中文 | https://se8.us |
+| 18漫畫 (EighteenMH) | 中文 | https://18mh.org |
 
 > **注意：** 以上图源均包含 NSFW（18+）内容。
 
@@ -56,7 +60,7 @@ https://raw.githubusercontent.com/leijie115/tachimanga/main/repo/index.min.json
 
 ### 2. 安装扩展
 
-进入 **浏览 → 插件**，找到 **Manga18fx** 或 **Ikanwzd**，点击 **安装**。
+进入 **浏览 → 插件**，找到想要的扩展，点击 **安装**。
 
 ### 3. 开始阅读
 
