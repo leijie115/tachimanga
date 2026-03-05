@@ -14,9 +14,12 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | 包子漫画 (Baozi Manhua) | 中文 | https://www.baozimh.com |
 | GoDa漫画 (BaozimhOrg) | 中文 | https://baozimh.org |
 | 拷貝漫畫 (MangaCopy) | 中文 | https://www.mangacopy.com |
+| Hanime1 | 中文 | https://hanime1.me |
+| 嗨皮漫画 (HappyMH) | 中文 | https://m.happymh.com |
+| Ho5Ho | 中文 | https://www.ho5ho.com |
 | Bilimanga.net | 中文 | https://www.bilimanga.net |
 
-> **Note:** All sources contain NSFW (18+) content.
+> **Note:** Most sources contain NSFW (18+) content.
 
 ## How to Use
 
@@ -54,9 +57,12 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 包子漫画 (Baozi Manhua) | 中文 | https://www.baozimh.com |
 | GoDa漫画 (BaozimhOrg) | 中文 | https://baozimh.org |
 | 拷貝漫畫 (MangaCopy) | 中文 | https://www.mangacopy.com |
+| Hanime1 | 中文 | https://hanime1.me |
+| 嗨皮漫画 (HappyMH) | 中文 | https://m.happymh.com |
+| Ho5Ho | 中文 | https://www.ho5ho.com |
 | Bilimanga.net | 中文 | https://www.bilimanga.net |
 
-> **注意：** 以上图源均包含 NSFW（18+）内容。
+> **注意：** 大部分图源包含 NSFW（18+）内容。
 
 ## 使用方法
 
