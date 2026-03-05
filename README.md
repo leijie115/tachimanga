@@ -10,6 +10,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | 漫小肆韓漫 (Ikanwzd) | 中文 | https://www.ikanwzd.cc |
 | 韩漫库 (Se8) | 中文 | https://se8.us |
 | 18漫畫 (EighteenMH) | 中文 | https://18mh.org |
+| 巴卡漫画 (Bakamh) | 中文 | https://bakamh.com |
 
 > **Note:** All sources contain NSFW (18+) content.
 
@@ -45,6 +46,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 漫小肆韓漫 (Ikanwzd) | 中文 | https://www.ikanwzd.cc |
 | 韩漫库 (Se8) | 中文 | https://se8.us |
 | 18漫畫 (EighteenMH) | 中文 | https://18mh.org |
+| 巴卡漫画 (Bakamh) | 中文 | https://bakamh.com |
 
 > **注意：** 以上图源均包含 NSFW（18+）内容。
 
