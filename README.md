@@ -11,6 +11,9 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | 韩漫库 (Se8) | 中文 | https://se8.us |
 | 18漫畫 (EighteenMH) | 中文 | https://18mh.org |
 | 巴卡漫画 (Bakamh) | 中文 | https://bakamh.com |
+| 包子漫画 (Baozi Manhua) | 中文 | https://www.baozimh.com |
+| GoDa漫画 (BaozimhOrg) | 中文 | https://baozimh.org |
+| Bilimanga.net | 中文 | https://www.bilimanga.net |
 
 > **Note:** All sources contain NSFW (18+) content.
 
@@ -47,6 +50,9 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 韩漫库 (Se8) | 中文 | https://se8.us |
 | 18漫畫 (EighteenMH) | 中文 | https://18mh.org |
 | 巴卡漫画 (Bakamh) | 中文 | https://bakamh.com |
+| 包子漫画 (Baozi Manhua) | 中文 | https://www.baozimh.com |
+| GoDa漫画 (BaozimhOrg) | 中文 | https://baozimh.org |
+| Bilimanga.net | 中文 | https://www.bilimanga.net |
 
 > **注意：** 以上图源均包含 NSFW（18+）内容。
 
