@@ -78,7 +78,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 
 ### 1. 添加仓库
 
-打开 Tachimanga，进入 **更多 → 扩展 → 扩展仓库 → 添加仓库**，粘贴以下地址：
+打开 Tachimanga，进入 **更多 → 插件 → 扩展仓库 → 添加仓库**，粘贴以下地址：
 
 ```
 https://raw.githubusercontent.com/leijie115/tachimanga/main/repo/index.min.json
