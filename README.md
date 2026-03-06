@@ -17,7 +17,12 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | Hanime1 | 中文 | https://hanime1.me |
 | 嗨皮漫画 (HappyMH) | 中文 | https://m.happymh.com |
 | Ho5Ho | 中文 | https://www.ho5ho.com |
-| Bilimanga.net | 中文 | https://www.bilimanga.net |
+| 哔哩漫画 (BiliManga) | 中文 | https://www.bilimanga.net |
+| Komiic | 中文 | https://komiic.com |
+| MyComic | 中文 | https://mycomic.com |
+| 紳士漫畫 (WNACG) | 中文 | https://www.wnacg.com |
+| 再漫画 (Zaimanhua) | 中文 | https://www.zaimanhua.com |
+| Temple Scan | Español | https://templescanesp.net |
 
 > **Note:** Most sources contain NSFW (18+) content.
 
@@ -60,7 +65,12 @@ After installation, go to **Browse → Sources**, select the source you installe
 | Hanime1 | 中文 | https://hanime1.me |
 | 嗨皮漫画 (HappyMH) | 中文 | https://m.happymh.com |
 | Ho5Ho | 中文 | https://www.ho5ho.com |
-| Bilimanga.net | 中文 | https://www.bilimanga.net |
+| 哔哩漫画 (BiliManga) | 中文 | https://www.bilimanga.net |
+| Komiic | 中文 | https://komiic.com |
+| MyComic | 中文 | https://mycomic.com |
+| 紳士漫畫 (WNACG) | 中文 | https://www.wnacg.com |
+| 再漫画 (Zaimanhua) | 中文 | https://www.zaimanhua.com |
+| Temple Scan | Español | https://templescanesp.net |
 
 > **注意：** 大部分图源包含 NSFW（18+）内容。
 
