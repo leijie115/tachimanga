@@ -23,6 +23,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | 紳士漫畫 (WNACG) | 中文 | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | https://www.zaimanhua.com |
 | Temple Scan | Español | https://templescanesp.net |
+| NewToki / ManaToki | 한국어 | https://newtoki469.com |
 
 > **Note:** Most sources contain NSFW (18+) content.
 
@@ -71,6 +72,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 紳士漫畫 (WNACG) | 中文 | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | https://www.zaimanhua.com |
 | Temple Scan | Español | https://templescanesp.net |
+| NewToki / ManaToki | 한국어 | https://newtoki469.com |
 
 > **注意：** 大部分图源包含 NSFW（18+）内容。
 
