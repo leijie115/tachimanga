@@ -22,6 +22,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | MyComic | 中文 | https://mycomic.com |
 | 紳士漫畫 (WNACG) | 中文 | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | https://www.zaimanhua.com |
+| pawo漫画 (Pawomh) | 中文 | https://www.pawomh4.cc |
 | Temple Scan | Español | https://templescanesp.net |
 | NewToki / ManaToki | 한국어 | https://newtoki469.com |
 
@@ -71,6 +72,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | MyComic | 中文 | https://mycomic.com |
 | 紳士漫畫 (WNACG) | 中文 | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | https://www.zaimanhua.com |
+| pawo漫画 (Pawomh) | 中文 | https://www.pawomh4.cc |
 | Temple Scan | Español | https://templescanesp.net |
 | NewToki / ManaToki | 한국어 | https://newtoki469.com |
 
