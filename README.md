@@ -22,6 +22,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | MyComic | 中文 | Yes | https://mycomic.com |
 | 紳士漫畫 (WNACG) | 中文 | Yes | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | No | https://www.zaimanhua.com |
+| 禁漫天堂 (Jinmantiantang) | 中文 | Yes | https://18comic.vip |
 | pawo漫画 (Pawomh) | 中文 | Yes | https://www.pawomh4.cc |
 | Temple Scan | Español | Yes | https://templescanesp.net |
 | NewToki / ManaToki | 한국어 | Yes | https://newtoki469.com |
