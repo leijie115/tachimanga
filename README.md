@@ -71,6 +71,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | MyComic | 中文 | 是 | https://mycomic.com |
 | 紳士漫畫 (WNACG) | 中文 | 是 | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | 否 | https://www.zaimanhua.com |
+| 禁漫天堂 (Jinmantiantang) | 中文 | 是 | https://18comic.vip |
 | pawo漫画 (Pawomh) | 中文 | 是 | https://www.pawomh4.cc |
 | Temple Scan | Español | 是 | https://templescanesp.net |
 | NewToki / ManaToki | 한국어 | 是 | https://newtoki469.com |
