@@ -7,6 +7,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | Source | Language | NSFW | URL |
 |--------|----------|------|-----|
 | Manga18fx | English | Yes | https://manga18fx.com |
+| Manga18.Club | English | Yes | https://manga18.club |
 | 漫小肆韓漫 (Ikanwzd) | 中文 | Yes | https://www.ikanwzd.cc |
 | 韩漫库 (Se8) | 中文 | Yes | https://se8.us |
 | 18漫畫 (EighteenMH) | 中文 | Yes | https://18mh.org |
@@ -56,6 +57,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 图源 | 语言 | NSFW | 网址 |
 |------|------|------|------|
 | Manga18fx | English | 是 | https://manga18fx.com |
+| Manga18.Club | English | 是 | https://manga18.club |
 | 漫小肆韓漫 (Ikanwzd) | 中文 | 是 | https://www.ikanwzd.cc |
 | 韩漫库 (Se8) | 中文 | 是 | https://se8.us |
 | 18漫畫 (EighteenMH) | 中文 | 是 | https://18mh.org |
