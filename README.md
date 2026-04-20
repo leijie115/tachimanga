@@ -27,6 +27,8 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | pawo漫画 (Pawomh) | 中文 | Yes | https://www.pawomh4.cc |
 | Temple Scan | Español | Yes | https://templescanesp.net |
 | NewToki / ManaToki | 한국어 | Yes | https://newtoki469.com |
+| Komikindo.live | English | Yes | https://komikindo.live |
+| Mangaforfree.com | English | Yes | https://mangaforfree.com |
 
 ## How to Use
 
@@ -77,6 +79,8 @@ After installation, go to **Browse → Sources**, select the source you installe
 | pawo漫画 (Pawomh) | 中文 | 是 | https://www.pawomh4.cc |
 | Temple Scan | Español | 是 | https://templescanesp.net |
 | NewToki / ManaToki | 한국어 | 是 | https://newtoki469.com |
+| Komikindo.live | English | 是 | https://komikindo.live |
+| Mangaforfree.com | English | 是 | https://mangaforfree.com |
 
 ## 使用方法
 
