@@ -22,11 +22,16 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | MyComic | 中文 | Yes | https://mycomic.com |
 | 紳士漫畫 (WNACG) | 中文 | Yes | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | No | https://www.zaimanhua.com |
-| 禁漫天堂 (Jinmantiantang) | 中文 | Yes | https://18comic.vip |
+| 禁漫天堂 (Jinmantiantang) | 中文 | Yes | https://18comic.ink |
 | pawo漫画 (Pawomh) | 中文 | Yes | https://pawomh1.cc |
+| 污污漫畫 (55comic) | 中文 | Yes | https://www.55comic.com |
+| 肉漫屋 (Rouman5) | 中文 | Yes | https://rouman5.com |
+| 漫小肆韓漫 (jjmhw) | 中文 | Yes | https://www.jjmhw.cc |
+| 禁漫岛 (91jmd) | 中文 | Yes | https://91jmd.com |
 | Temple Scan | Español | Yes | https://templescanesp.net |
 | Komikindo.live | English | Yes | https://komikindo.live |
 | Mangaforfree.com | English | Yes | https://mangaforfree.com |
+| 뉴엑스툰 (NewXToon) | 한국어 | Yes | https://newxtoon1.com |
 
 ## How to Use
 
@@ -72,11 +77,16 @@ After installation, go to **Browse → Sources**, select the source you installe
 | MyComic | 中文 | 是 | https://mycomic.com |
 | 紳士漫畫 (WNACG) | 中文 | 是 | https://www.wnacg.com |
 | 再漫画 (Zaimanhua) | 中文 | 否 | https://www.zaimanhua.com |
-| 禁漫天堂 (Jinmantiantang) | 中文 | 是 | https://18comic.vip |
+| 禁漫天堂 (Jinmantiantang) | 中文 | 是 | https://18comic.ink |
 | pawo漫画 (Pawomh) | 中文 | 是 | https://pawomh1.cc |
+| 污污漫畫 (55comic) | 中文 | 是 | https://www.55comic.com |
+| 肉漫屋 (Rouman5) | 中文 | 是 | https://rouman5.com |
+| 漫小肆韓漫 (jjmhw) | 中文 | 是 | https://www.jjmhw.cc |
+| 禁漫岛 (91jmd) | 中文 | 是 | https://91jmd.com |
 | Temple Scan | Español | 是 | https://templescanesp.net |
 | Komikindo.live | English | 是 | https://komikindo.live |
 | Mangaforfree.com | English | 是 | https://mangaforfree.com |
+| 뉴엑스툰 (NewXToon) | 한국어 | 是 | https://newxtoon1.com |
 
 ## 使用方法
 
