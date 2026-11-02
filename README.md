@@ -28,6 +28,7 @@ Custom extension repository for [Tachimanga](https://tachimanga.app/).
 | 肉漫屋 (Rouman5) | 中文 | Yes | https://rouman5.com |
 | 漫小肆韓漫 (jjmhw) | 中文 | Yes | https://www.jjmhw.cc |
 | 禁漫岛 (91jmd) | 中文 | Yes | https://91jmd.com |
+| 鸟鸟韩漫 (NNHanman) | 中文 | Yes | https://nnhanman.xyz |
 | Temple Scan | Español | Yes | https://templescanesp.net |
 | Komikindo.live | English | Yes | https://komikindo.live |
 | Mangaforfree.com | English | Yes | https://mangaforfree.com |
@@ -83,6 +84,7 @@ After installation, go to **Browse → Sources**, select the source you installe
 | 肉漫屋 (Rouman5) | 中文 | 是 | https://rouman5.com |
 | 漫小肆韓漫 (jjmhw) | 中文 | 是 | https://www.jjmhw.cc |
 | 禁漫岛 (91jmd) | 中文 | 是 | https://91jmd.com |
+| 鸟鸟韩漫 (NNHanman) | 中文 | 是 | https://nnhanman.xyz |
 | Temple Scan | Español | 是 | https://templescanesp.net |
 | Komikindo.live | English | 是 | https://komikindo.live |
 | Mangaforfree.com | English | 是 | https://mangaforfree.com |
